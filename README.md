@@ -12,3 +12,4 @@
   List<String> myList = new ArrayList<>();   //won't require those methods in the List interface.
   
 8. Comparator is an external type that uses multiple classes white comparables only have one chance to use the compare to objects. Comparables in objects compares itself with another object. 
+
