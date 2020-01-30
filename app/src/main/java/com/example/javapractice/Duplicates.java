@@ -22,7 +22,7 @@ public class Duplicates {
         str.add("Melon");
 
         HashSet<String> cool = new HashSet<>();
-        Log.v("WTF", "v");
+        Log.v("Dups", "v");
 
 
         for (int i = 0; i < str.size(); i++) {
@@ -47,7 +47,7 @@ public class Duplicates {
 
         for (String words : cool) {
 
-            Log.v("GOLD", words);
+            Log.v("Duplicates", words);
 
         }
 

@@ -27,7 +27,10 @@ public class MainActivity extends AppCompatActivity {
         Fizzbuzz.fizzBuzzTester();
 
         // Anagrams
-        Anagrams.checkAnagrams("Silent","Listen");
+        boolean ana = Anagrams.checkAnagrams("silent","listen");
+            Log.v("Anagrams", String.valueOf(ana));
+
+
 
         // Multiplication Tables
         MultiDem.printTable();
