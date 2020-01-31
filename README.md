@@ -11,7 +11,10 @@
 
 5) printTable method will print a multiplication table from 1 to 10 by multiplying each index corresponding in a nested forloop with a runtime of O(n^2).
 
-*****************************************
+***************************************** 
+
+
+
 1. Hashtable won't allow null keys or values.  HashMap allows one null key and any number of null values. Hashtable is synchronized, and HashMap is not which HashTables better for multi-threaded applications. HashMaps are faster than Hashtables.
 
 2. You should override them so the class can behave properly since the hash based collections are organized in a sequence where same hashcodes determines where the object is allocated and where to find them. 
