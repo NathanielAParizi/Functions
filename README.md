@@ -13,6 +13,7 @@
 
 ***************************************** 
 
+Research
 
 
 1. Hashtable won't allow null keys or values.  HashMap allows one null key and any number of null values. Hashtable is synchronized, and HashMap is not which HashTables better for multi-threaded applications. HashMaps are faster than Hashtables.
